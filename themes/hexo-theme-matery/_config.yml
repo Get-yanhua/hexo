@@ -275,7 +275,7 @@ postCalendar: true
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
-  enable: true
+  enable: false
   owner: zhoyolg
   repo: https://www.zhoyolg.com
   oauth:
@@ -398,8 +398,8 @@ busuanziStatistics:
 # Add google analytics configuration
 # 添加 Google Analytics 配置
 googleAnalytics:
-  enable: false
-  id:
+  enable: true
+  id: RDqK3iEHTYyjy_49FdMlvw
 
 # Add baidu analytics configuration
 # 添加 baidu Analytics 配置
