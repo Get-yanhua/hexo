@@ -9,7 +9,7 @@ description: 从来没有真正的绝境，只有心灵的迷途
 keywords: 
 author: 
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'

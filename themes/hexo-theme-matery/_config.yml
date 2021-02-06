@@ -16,9 +16,6 @@ menu:
   关于:
     url: /about
     icon: fas fa-user-circle-o
-  友情链接:
-    url: /friends
-    icon: fas fa-address-book
   # 二级菜单写法如下
   #Medias:
   #  icon: fas fa-list
@@ -280,7 +277,7 @@ postCalendar: true
 gitalk:
   enable: true
   owner: zhoyolg
-  repo: https://github.com/zhoyolg/hexo
+  repo: https://www.zhoyolg.com
   oauth:
     clientId: 6e7d4938551ee7635c65
     clientSecret: fac01b767faac408c98c4918dde21f334f7010d3
@@ -525,7 +522,7 @@ tuxiaochao:
 
 #背景canvas-nest
 canvas_nest:
-  enable: false
+  enable: true
   color: 0,0,255 # 线条颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
   pointColor: 0,0,255 # 交点颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
   opacity: 0.7 # 线条透明度（0~1）, 默认: 0.5
@@ -583,7 +580,7 @@ banner:
 
 #ICP备案信息尾部显示
 icp:
-  enable: false
+  enable: true
   url: # 备案链接
   text: # 备案信息
 
