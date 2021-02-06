@@ -280,7 +280,7 @@ postCalendar: true
 gitalk:
   enable: true
   owner: zhoyolg
-  repo: www.zhoyog.com
+  repo: https://github.com/zhoyolg/hexo
   oauth:
     clientId: 6e7d4938551ee7635c65
     clientSecret: fac01b767faac408c98c4918dde21f334f7010d3
