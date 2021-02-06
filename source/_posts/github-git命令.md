@@ -6,8 +6,6 @@ categories:
     - Github
 tags: 
     - Github
-mp3: 
-cover: https://fech.in/static/images/cover/convert-excel-to-markdown-table.jpeg
 ---
 
 ## 使用Git命令将本地代码提交到github代码仓库
