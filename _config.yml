@@ -15,7 +15,7 @@ timezone: 'Asia/Shanghai'
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: https://www.zhoyolg.com
 root: /
-permalink: :category/?p=:urlname.html
+permalink: :category/:urlname.html
 permalink_defaults:
   urlname: index
 
