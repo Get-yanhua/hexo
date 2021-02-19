@@ -1,40 +1,41 @@
 User-agent: Baiduspider
-Disallow: /*?*
 Disallow: /source
 Disallow: /scaffolds
 Disallow: /themes
 Disallow: /node_modules
 
 User-agent: sogou spider
-Disallow: /*?*
 Disallow: /source
 Disallow: /scaffolds
 Disallow: /themes
 Disallow: /node_modules
 
 User-agent: 360Spider
-Disallow: /*?*
 Disallow: /source
 Disallow: /scaffolds
 Disallow: /themes
 Disallow: /node_modules
 
 User-agent: Googlebot
-Disallow: /*?*
 Disallow: /source
 Disallow: /scaffolds
 Disallow: /themes
 Disallow: /node_modules
 
 User-agent: Sosospider
-Disallow: /*?*
 Disallow: /source
 Disallow: /scaffolds
 Disallow: /themes
 Disallow: /node_modules
 
 User-agent: AhrefsBot
-Disallow: /
+Disallow: /source
+Disallow: /scaffolds
+Disallow: /themes
+Disallow: /node_modules
 
 User-agent: bingbot
-Disallow: /
+Disallow: /source
+Disallow: /scaffolds
+Disallow: /themes
+Disallow: /node_modules
