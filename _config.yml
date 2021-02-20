@@ -15,7 +15,7 @@ timezone: 'Asia/Shanghai'
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: https://www.zhoyolg.com
 root: /
-permalink: :category/:urlname.html
+permalink: p/:urlname.html
 permalink_defaults:
   urlname: index
 
@@ -125,3 +125,8 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+
+lazyload:
+  enable: true 
+  onlypost: true  # 是否只对文章的图片做懒加载
+  loadingImg: /medias/loading.gif
