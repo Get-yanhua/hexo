@@ -27,12 +27,24 @@ git config --global user.name 你的账户名
 git config --global user.email  你的邮箱
 ```
 
-##### 配置结束后再执行commit命令
+##### **配置结束后再执行commit命令**
 
 ```bash
 远程仓库的提交（第一次连接）
 git remote add origin +你刚刚复制的地址
 git push -u origin master （空仓库加 -u）
 //仓库关联
+```
+
+**生成静态页面**
+
+```bash
+hexo cl&&hexo g
+```
+
+**切换github分支**
+
+```bash
+git checkout master
 ```
 
